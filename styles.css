@@ -20,10 +20,32 @@ body {
 }
 
 .banner-col-2 {
+    width: 40%;
     padding: 1.5rem;
-    margin: auto 0;
+    margin: auto 3rem auto 1.5rem;
 }
 
 .button1 {
-    width: 100%;
+    width: auto;
+}
+
+.info-row {
+    padding: 1.5rem;
+    margin: auto 3rem auto 0;
+}
+
+
+.info-image {
+    width: 35%;
+}
+.info-image img {
+    padding: 1rem;
+}
+.guest-col {
+    background-color: #D1D1D1;
+}
+
+.desc {
+    padding: 1.5rem;
+    margin: auto 3rem auto 1.5rem;
 }

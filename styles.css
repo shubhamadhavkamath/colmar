@@ -109,7 +109,7 @@ footer {
     }
 
     #info-mobile {
-        visibility: hidden;
+        display: none;
     }
     #mobile-card {
         display: none;

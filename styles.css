@@ -109,8 +109,10 @@ footer {
     }
 
     #info-mobile {
+        display: none; !important;
+    }
+    #mobile-card {
         display: none;
     }
-    
 
 }

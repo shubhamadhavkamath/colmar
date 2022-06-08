@@ -120,6 +120,8 @@ footer {
         width: 100%;
     }
 
-    
+    .guest-col {
+        background-color: none;
+    }
 
 }

@@ -10,7 +10,20 @@ body {
     background-color: #D1D1D1;
 }
 
-.banner-col img{
+.banner-col {
     width: 60%;
     margin: 2rem 1.5rem;
+}
+
+.banner-col img {
+    width: 100%;
+}
+
+.banner-col-2 {
+    padding: 1.5rem;
+    margin: auto 0;
+}
+
+.button1 {
+    width: 100%;
 }

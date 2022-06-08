@@ -114,5 +114,8 @@ footer {
     #mobile-card {
         display: none;
     }
+    #banner-image {
+        width: 100%;
+    }
 
 }

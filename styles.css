@@ -1,0 +1,16 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: lighter;
+    font-size: 16px;
+}
+.navbar-nav {
+    margin-left: auto;
+}
+.banner-row {
+    background-color: #D1D1D1;
+}
+
+.banner-col img{
+    width: 60%;
+    margin: 2rem 1.5rem;
+}

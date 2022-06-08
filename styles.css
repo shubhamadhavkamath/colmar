@@ -107,7 +107,9 @@ footer {
     #banner {
         display: block;
     }
-
+    #information {
+        display: block;
+    }
     #info-mobile {
         display: none;
     }
@@ -117,5 +119,7 @@ footer {
     #banner-image {
         width: 100%;
     }
+
+    
 
 }

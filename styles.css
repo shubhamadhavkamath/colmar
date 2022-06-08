@@ -66,9 +66,26 @@ body {
 
 .card-row {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .card-img-top {
     width: 100%;
     height: auto;
+}
+
+#thesis-section h1 {
+    text-align: center;
+    padding: 2rem;
+}
+
+.thesis-col {
+    width: 60%;
+    height: auto;
+}
+
+footer {
+    font-size: 13px;
+}
+.footer-nav {
+    margin-left: auto;
 }

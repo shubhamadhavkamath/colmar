@@ -113,7 +113,7 @@ footer {
     #info-mobile {
         display: none;
     }
-    #mobile-card {
+    .mobile-card {
         display: none;
     }
     #banner-image {
